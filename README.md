@@ -1,5 +1,5 @@
 - 👋 Ivan Hontarenko
 - 👀 Java, Spring, DIY, CNC
-- 🌱 Impove my knowlage in Spring, Java
+- 🌱 Improve my knowledge in Spring, Java
 - 📫 ihontarenko@gmail.com
-- 🌐 https://javadev.pro/
+- 🌐 https://dip8.org/
